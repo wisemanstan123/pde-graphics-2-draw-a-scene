@@ -1,4 +1,4 @@
-# CSE1110-processing-assignment-2
+# cse1110-processing-assignment-2
 **Due: Tuesday October 25**
 
 In this assignment your goal is to draw one of the following things/scenes.  
