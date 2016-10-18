@@ -28,9 +28,6 @@ Need help with colour?  Try https://processing.org/tutorials/  There is a tutori
 
 Want to do a curved line? They are surprisingly tricky.  https://processing.org/tutorials/curves/ 
 
-## Done?
-When you are done, take a screen shot of your drawing (not the entire screen), save it as drawing.png and add it to the top level of your assignment repository. Make sure you sync your local assignment repository to GitHub. 
-
 ## Done early?  
 Try animating your picture.  Can you make your snowman wave by moving your mouse?
 
