@@ -27,7 +27,7 @@ Need help with colour?  Try https://processing.org/tutorials/  There is a tutori
 
 Want to do a curved line? They are surprisingly tricky.  https://processing.org/tutorials/curves/ 
 
-## Done early?  
+## Bonus Challenge 
 Try animating your picture.  Can you make your snowman wave by moving your mouse?
 
 New Addition: If you already know how to add images to a Processing file, figure out how to include a picture as a background.  For example, you could have a winter scene picture behind your snowman.  To do this you do NOT use the background( ) code, you just put the right sized image at 0,0.  Example: ```image(snowscene.jpg, 0, 0, 400, 600);```.
