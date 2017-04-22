@@ -1,4 +1,4 @@
-# CSE1110-processing-assignment-2
+# CSE1110 Processing Assignment 2: Draw a scene
 
 In this assignment your goal is to draw one of the following things/scenes.  
 - house on a street
