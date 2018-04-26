@@ -2,7 +2,7 @@
 
 **[Assignment Standard Operating Procedures](https://mariopineda.github.io/assignment-sops/)**
 
-In this assignment your goal is to draw one of the following things/scenes.  
+In this assignment your goal is to draw one of the following items or one of the following scenes:  
 - house on a street
 - old school ipod
 - a car or truck
@@ -11,15 +11,17 @@ In this assignment your goal is to draw one of the following things/scenes.
 - any other scene that you can think of
 
 Your drawing must include:
-- A resized window
-- A new background colour
-- At least 10 shapes, including all of the following:
+- a resized window
+- a new background colour
+- at least 20 shapes, including the following:
   - lines
   - rectangles
-  -ellipses
-- some shapes must be filled, using multiple colours
-- multiple stroke thicknesses. Example:  strokeWeight(5);
+  - ellipses
+- multiple colours
+- multiple stroke thicknesses.
+- text
 
+## Tip
 Need to center a rectangle? 
 - Start with: ```rectMode(CENTER);```
 - Then specify the center points instead of the corner: rect(center, center, size, size)
@@ -30,6 +32,6 @@ Need help with colour?  Try https://processing.org/tutorials/  There is a tutori
 Want to do a curved line? They are surprisingly tricky.  https://processing.org/tutorials/curves/ 
 
 ## Bonus Challenge 
-Use a photograph as the canvas background. For example, you could have a winter scene picture behind your snowman. To do this you do NOT use the background( ) code, you just put the right sized image at 0,0.  Example: ```image(snowscene.jpg, 0, 0, 400, 600);```.
+Include at least 3 arcs (see the reference for the arc command) as part of your drawing.
 
 
