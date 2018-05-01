@@ -13,7 +13,7 @@ In this assignment your goal is to draw one of the following items or one of the
 Your drawing must include:
 - a resized window
 - a new background colour
-- at least 20 shapes, including the following:
+- at least [2D primitives](https://processing.org/reference/), including the following:
   - lines
   - rectangles
   - ellipses
